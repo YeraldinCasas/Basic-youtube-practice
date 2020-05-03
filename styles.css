@@ -1,0 +1,8 @@
+a{
+    color: rebeccapurple;
+    text-decoration: none;
+}
+
+a:hoover {
+    color:black;
+}
